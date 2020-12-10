@@ -1,2 +1,2 @@
 # hello-world
-Starting my adventures
+Just another designer adveturing on codeland... Nothing to see here. Yet.
